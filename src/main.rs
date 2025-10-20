@@ -1,7 +1,7 @@
 const EMPTY_SPACE: char = ' ';
 
 struct Board {
-    board: [char; 9], //[[char; 3]; 3]
+    board: [char; 9],
     is_cross: bool,
 }
 
